@@ -1,6 +1,7 @@
 :host{
     --primary-color: #3498db;
-    --accent-color: #5c9ed2;
+    --secondary-color: #5c9ed2;
+    --accent-color: #ff9800;
 }
 
 .brand-name{
