@@ -1,3 +1,24 @@
 :host{
     --primary-color: #3498db;
+    --accent-color: #5c9ed2;
+}
+
+.brand-name{
+    padding: 10px;
+    background-color: #ffffff; /* Card background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bottom shadow */
+    color: var(--primary-color);
+}
+
+.brand-name h1{
+    display: inline-block;
+    margin: 0;
+}
+
+.brand-logo{
+    width: 40px;
+}
+
+.content{
+    margin: 10px;
 }
